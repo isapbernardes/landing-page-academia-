@@ -1,1 +1,1 @@
-Essa é uma langind page de uma academia, usando HTML e CSS.
+Essa é uma landing page de uma academia, usando HTML e CSS.
